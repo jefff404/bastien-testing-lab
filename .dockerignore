@@ -1,0 +1,10 @@
+node_modules
+.docker
+.dockerignore
+Dockerfile
+.git
+.gitignore
+.vscode
+*.log
+*.md
+cypress/
